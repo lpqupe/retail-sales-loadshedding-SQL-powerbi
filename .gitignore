@@ -1,1 +1,64 @@
+# =====================================================
+# RETAIL SALES AND LOAD-SHEDDING ANALYTICS PROJECT
+# =====================================================
 
+# Environment variables and credentials
+.env
+.env.*
+*.env
+*.secret
+*.secrets
+credentials.json
+
+# Databricks local configuration and authentication
+.databrickscfg
+.databricks/
+*.dbc
+
+# Power BI temporary and backup files
+~$*.pbix
+*.pbix.tmp
+*.pbix.bak
+*.pbit.tmp
+
+# Power BI Project local settings and cache
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
+
+# Large or confidential raw datasets
+data/raw/
+data/private/
+data/confidential/
+
+# Keep anonymised sample data
+!data/sample_data.csv
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Temporary exports and logs
+temp/
+tmp/
+*.tmp
+*.log
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
