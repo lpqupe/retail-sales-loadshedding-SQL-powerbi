@@ -36,8 +36,6 @@ Management needed to understand:
 6. Developed DAX measures and interactive Power BI visuals
 7. Evaluated trends, operational impact and profit drivers
 
-<img width="120" height="120" alt="l" src="https://github.com/user-attachments/assets/04b6f828-b1ee-482c-9090-03bbcfa5c832" />
-
 ## Dashboard preview
 
 ### Executive summary
