@@ -82,5 +82,5 @@ Management needed to understand:
 ## Author
 
 Lulu Qupe  
-Aspiring Data Analyst  
-[LinkedIn profile](YOUR-LINKEDIN-URL)
+Data & Business Analyst  
+[LinkedIn profile](www.linkedin.com/in/lulu-qupe-b497823b2)
